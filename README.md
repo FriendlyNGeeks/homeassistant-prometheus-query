@@ -15,6 +15,7 @@ sensor:
     unit_of_measurement: "°C"
     state_class: measurement
     device_class: temperature
+    unique_id: mm_sensor_watchtower
 ```
 
 ### Configuration Variables
